@@ -1,0 +1,28 @@
+ROC Easy Forms
+├── roc-easy-forms.php (主插件文件)
+├── assets/                  (資源文件夾)
+│   ├── css/                (樣式表)
+│   │   ├── bootstrap.min.css
+│   │   ├── jquery-ui.css
+│   │   └── style.css
+│   ├── js/                 (腳本)
+│   │   ├── bootstrap.bundle.min.js
+│   │   ├── jquery.min.js
+│   │   ├── jquery-ui.min.js
+│   │   └── script.js
+│   └── icons/              (圖標)
+│       ├── column_1.svg
+│       ├── column_2.svg
+│       └── column_3.svg
+├── includes/               (功能模組)
+│   ├── field-library.php   (欄位庫)
+│   ├── layout-area.php     (布局區域)
+│   ├── modal-window.php    (彈出視窗)
+│   ├── common-attributes.php (通用屬性)
+│   ├── text-attributes.php (文字欄位屬性)
+│   ├── dropdown-attributes.php (下拉選單屬性)
+│   └── save-form.php       (保存表單)
+├── templates/              (模板)
+│   └── form-list.php       (表單列表頁面)
+└── languages/              (語言包)
+    └── roc-easy-forms.pot  (翻譯文件)
